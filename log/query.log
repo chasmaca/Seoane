@@ -1,0 +1,703 @@
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from
+								solicitudes
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 3
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesUsuario
+Query: select 
+								solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+							from 
+								solicitudes 
+							where 
+								usuario_id = ?
+Parametros: 5
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesAprobada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 3
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesCurso
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 2
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudes
+Query: select 
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from 
+						solicitudes 
+					where 
+						status_id = 1
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 6
+Parametros: 
+Message: 
+-------------------------
+Fichero: select/sSolicitud.php
+Metodo: recuperaSolicitudesRechazada
+Query: select
+						solicitud_id,nombre,apellidos,email,edificio,sala,fechaTrabajo,horaInicio,horaFin,antesEvento,duranteEvento,despuesEvento,observaciones,status_id, usuario_id
+					from
+						solicitudes
+					where
+						status_id = 4
+Parametros: 
+Message: 
+-------------------------
