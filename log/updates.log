@@ -1,0 +1,18 @@
+Fichero: update/uSolicitudPlantilla.php
+Metodo: actualizarSolicitud
+Query: update solicitudes set status_id = 2, precio = ?, empleados=? WHERE solicitud_id = ?
+Parametros: 97
+Message: 
+-------------------------
+Fichero: update/uSolicitudPlantilla.php
+Metodo: actualizarSolicitud
+Query: update solicitudes set status_id = 2, precio = ?, empleados=? WHERE solicitud_id = ?
+Parametros: 97
+Message: 
+-------------------------
+Fichero: update/uSolicitudPlantilla.php
+Metodo: actualizarSolicitud
+Query: update solicitudes set status_id = 2, precio = ?, empleados=? WHERE solicitud_id = ?
+Parametros: 97
+Message: 
+-------------------------

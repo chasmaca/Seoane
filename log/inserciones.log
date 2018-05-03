@@ -1,0 +1,260 @@
+Fichero: update/uSolicitudPlantilla.php
+Metodo: actualizarSolicitud
+Query: INSERT INTO COMUNICACIONES
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 97<->2018-05-03<->11:53:54<->LimpiezasArosa@gmail.com<->chasmaca@gmail.com<->
+Message: 
+-------------------------
+Fichero: update/uSolicitudPlantilla.php
+Metodo: actualizarSolicitud
+Query: INSERT INTO COMUNICACIONES
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 97<->2018-05-03<->11:54:02<->LimpiezasArosa@gmail.com<->chasmaca@gmail.com<->
+Message: 
+-------------------------
+Fichero: update/uSolicitudPlantilla.php
+Metodo: actualizarSolicitud
+Query: INSERT INTO COMUNICACIONES
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 97<->2018-05-03<->11:59:22<->LimpiezasArosa@gmail.com<->chasmaca@gmail.com<->
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 99,Usuario,Solicitante,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 99,2018-05-03,12:54:25,chasmaca@gmail.com,chasmaca@gmail.com,Se ha generado la solicitud número 99 con la solicitud de limpieza por parte de Usuario Solicitante
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 100,prueba,CARBO PRUEBA,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 100,2018-05-03,12:56:36,chasmaca@gmail.com,chasmaca@gmail.com,Se ha generado la solicitud número 100 con la solicitud de limpieza por parte de prueba CARBO PRUEBA
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 101,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 101,2018-05-03,13:00:09,chasmaca@gmail.com,chasmaca@gmail.com,Se ha generado la solicitud número 101 con la solicitud de limpieza por parte de Jesus Madrazo
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 102,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 102,2018-05-03,13:19:53,chasmaca@gmail.com,chasmaca@gmail.com,Se ha generado la solicitud número 102 con la solicitud de limpieza por parte de Jesus Madrazo
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 103,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 104,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 105,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 106,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 106,2018-05-03,13:26:59,chasmaca@gmail.com,chasmaca@gmail.com,Se ha generado la solicitud número 106 con la solicitud de limpieza por parte de Jesus Madrazo
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 107,Jesus,Madrazo,chasmaca@gmail.com
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 107,2018-05-03,14:02:19,chasmaca@gmail.com,chasmaca@gmail.com,Se ha generado la solicitud número 107 con la solicitud de limpieza por parte de Jesus Madrazo
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 108,Ana,Barrios,a.barrios@ufv.es
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 108,2018-05-03,15:20:29,a.barrios@ufv.es,chasmaca@gmail.com,Se ha generado la solicitud número 108 con la solicitud de limpieza por parte de Ana Barrios
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 109,Ana,Barrios,a.barrios@ufv.es
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 109,2018-05-03,15:23:55,a.barrios@ufv.es,chasmaca@gmail.com,Se ha generado la solicitud número 109 con la solicitud de limpieza por parte de Ana Barrios
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 110,Ana,Barrios,a.barrios@ufv.es
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 110,2018-05-03,15:24:55,a.barrios@ufv.es,chasmaca@gmail.com,Se ha generado la solicitud número 110 con la solicitud de limpieza por parte de Ana Barrios
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarSolicitud
+Query: INSERT INTO solicitudes
+								(nombre,apellidos,
+								 email,edificio,sala,
+								 fechaTrabajo,horaInicio,horaFin,
+								 antesEvento,duranteEvento,despuesEvento,
+								 observaciones, status_id, usuario_id,departamento_id) values
+								(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Parametros: 111,Ana,Barrios,a.barrios@ufv.es
+Message: 
+-------------------------
+Fichero: insert/iSolicitud.php
+Metodo: insertarComunicacion
+Query: INSERT INTO comunicaciones
+								(solicitud_id,fecha,hora,remitente,destinatario,email) values
+								(?,?,?,?,?,?)
+Parametros: 111,2018-05-03,15:26:56,a.barrios@ufv.es,chasmaca@gmail.com,Se ha generado la solicitud número 111 con la solicitud de limpieza por parte de Ana Barrios
+Message: 
+-------------------------
